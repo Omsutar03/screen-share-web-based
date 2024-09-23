@@ -23,7 +23,7 @@ Open any preferred browser and enter the IP of your device (Local Remote is host
 
 So if your device's IP (where Local Remote is hosted) is "192.168.0.101" then enter "192.168.0.101:756" in your browser. You'll be redirected to "login" page.
 
-![alt text](image.png)
+![alt text](url.png)
 
 There are 2 profiles setup by default.
 1. Administrator: Username = admin, Password = admin
