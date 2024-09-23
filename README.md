@@ -21,8 +21,9 @@ Application runs in the background without any GUI. To close the application sim
 
 Open any preferred browser and enter the IP of your device (Local Remote is hosted on) with port 756 (default port).
 
-So if your device's IP (where Local Remote is hosted) is "192.168.0.101" then enter "192.168.0.101:756" in your browser.
+So if your device's IP (where Local Remote is hosted) is "192.168.0.101" then enter "192.168.0.101:756" in your browser. You'll be redirected to "login" page.
 
+![alt text](image.png)
 
 There are 2 profiles setup by default.
 1. Administrator: Username = admin, Password = admin
