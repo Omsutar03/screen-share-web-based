@@ -19,9 +19,16 @@ Simply start the application by clicking the application icon on desktop.
 
 Application runs in the background without any GUI. To close the application simply end the application from Task Manager.
 
+Open any preferred browser and enter the IP of your device (Local Remote is hosted on) with port 756 (default port).
+
+So if your device's IP (where Local Remote is hosted) is "192.168.0.101" then enter "192.168.0.101:756" in your browser.
+
+
 There are 2 profiles setup by default.
 1. Administrator: Username = admin, Password = admin
 2. User1: Username = user1, Password = user1
+
+>**NOTE:** Purpose of this application is to be able to have remote access of your devices over IP on local network.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
